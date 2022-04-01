@@ -1,6 +1,6 @@
 var a = getRandomInt(-10, 10);
 var b = getRandomInt(-10, 10);
-
+// задание 3
 calc(a,b);
 
 function calc(a,b){// условия расчета, согласно дз
