@@ -1,5 +1,5 @@
 let a = getRandomInt(0,15);
-
+// задание 4
 function getRandomInt(min, max) {//рандомные числа в диапозоне
     return Math.floor(Math.random() * (max - min)) + min;
   }

@@ -1,6 +1,6 @@
 let a = 1;
 let b = 2;
-
+//задания 5 и 6
 console.log(mathOperation(a, b,'amo'));
 console.log(mathOperation(a, b,'dif'));
 console.log(mathOperation(a, b,'mul'));
